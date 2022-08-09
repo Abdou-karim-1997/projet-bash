@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+nav ul li{display: inline;
+
+    margin: 30px;
+
+
+}
+.section1{
+    background-color: red;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.section2{
+    background-color:yellow;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.section3{
+    background-color: greenyellow;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.section4{
+    background-color: darkgrey;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}.section5{
+    background-color: brown;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.section5{
+    background-color: brown;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
